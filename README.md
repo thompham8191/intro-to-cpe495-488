@@ -1,6 +1,6 @@
 # intro-to-cpe495-488
 Lab1-Git
-CPE 495: Computer Engineering Design I/
+CPE 495: Computer Engineering Design I
 CPE 488: Cybersecurity Engineering Capstone I
 Objectives
 Upon completion of this course, the student will be able to:
